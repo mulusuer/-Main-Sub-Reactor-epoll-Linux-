@@ -40,13 +40,13 @@
 
 ## 运行案例
 
-`http`模块有一个小型的`HTTP`服务器案例，也可以执行。其默认监听`8080`：
+`webserver`目录有一个小型的`HTTP`服务器案例，也可以执行。其默认监听`8080`：
 
 ```shell
-cd ./src/http && ./HttpServer
+cd webserver/build && ./WebServer
 ```
 
-![img](https://cdn.nlark.com/yuque/0/2022/png/26752078/1663577836134-85f389cc-a3ac-4b55-8bb8-05d751633e39.png)
+![img](https://github.com/mulusuer/-Main-Sub-Reactor-epoll-Linux-/blob/main/webserver/static/images/test.png)
 
 ## 优化计划
 
